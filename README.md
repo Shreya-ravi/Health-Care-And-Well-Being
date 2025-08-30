@@ -33,6 +33,9 @@ Guideline Development – Create actionable recommendations for improving well-b
 
 Implementation & Sharing – Share findings through reports, tutorials, or awareness campaigns.
 
+# Run The Streanlit App
+python -m streamlit run hackathon.py
+
 # 📊 Example Visuals
 
 <img width="818" height="877" alt="image" src="https://github.com/user-attachments/assets/467a7340-979d-4781-bab8-f20fa933059e" />
