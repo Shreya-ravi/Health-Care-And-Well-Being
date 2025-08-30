@@ -45,3 +45,7 @@ python -m streamlit run hackathon.py
 # 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+# 🚀 Getting Started
+
+Clone the repo git clone https://github.com/yourusername/Health-Care-And-Well-Being
