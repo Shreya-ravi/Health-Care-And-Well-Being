@@ -3,7 +3,7 @@
 
 # 🌟 Overview
 
-The Health Care and Well-being Project focuses on promoting overall health, preventive care, and emotional wellness. It provides actionable insights, guidelines, and resources to encourage healthy lifestyles and mental well-being.
+What it does Our project provides a smart health and well-being platform that allows users to: Get health tips and personalized recommendations.  Track their well-being (such as diet, sleep, activity, or symptoms).  Use AI to analyze inputs and suggest preventive measures.  
 
 # 🎯 Objectives
 
